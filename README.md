@@ -7,11 +7,9 @@
 ### 👍 In this way, we can offer customers a pleasant and informative online experience about the location. 
 
 ## Introduction:
-
 This is a code repository for the corresponding Modern UI/UX Website of BRB Cafe&Bar. Through rigorous work on this one I realized how good it is to fix the information you already know and how you can learn new commands in an enjoyable way by following my own design.
 
 ## What I learned, deepened and developed:
-
 - Figma: I created the website design https://www.figma.com/file/lDxl5R3oC72qtL0hni6KM1/BRB-Cafe%26Bar?type=design&node-id=0%3A1&mode=design&t=o9M8PukGmKrZGZzb-1
 - Node.js and npm: for setting up the development environment;
 - React Functional components and their reusability;
@@ -22,7 +20,6 @@ This is a code repository for the corresponding Modern UI/UX Website of BRB Cafe
 - Strategically placed media queries for satisfactory responsiveness covering almost devices.
 
 Site structure:
-
 - a Navbar containing the logo, links to Home, About, Menu, Contact, Social networks (but they still have to edit them);
 - at Home we see a representative video with the bartender, with fine details that show quality and a message that tells them that all the locals come here and this aspect makes the atmosphere pleasant;
 - follows the section of About and Atmosphere & Concept with a slider of pictures from the Bar;
