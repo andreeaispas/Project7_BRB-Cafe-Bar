@@ -2,9 +2,9 @@
 
 ![BRB Cafe&Bar Website](assets/StartPage.jpg)
 
-### [🍹📝 I created this website for a recently opened business of some family friends, to help promote and make this Bar visible in our county. ]
+### 🍹📝 I created this website for a recently opened business of some family friends, to help promote and make this Bar visible in our county. 
 
-### [👍 In this way, we can offer customers a pleasant and informative online experience about the location. ]
+### 👍 In this way, we can offer customers a pleasant and informative online experience about the location. 
 
 ## Introduction
 
