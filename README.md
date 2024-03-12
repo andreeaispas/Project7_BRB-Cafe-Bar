@@ -10,7 +10,7 @@
 
 This is a code repository for the corresponding Modern UI/UX Website of BRB Cafe&Bar. Through rigorous work on this one I realized how good it is to fix the information you already know and how you can learn new commands in an enjoyable way by following my own design.
 
-What I learned, deepened and developed:
+## What I learned, deepened and developed:
 
 - Figma: I created the website design https://www.figma.com/file/lDxl5R3oC72qtL0hni6KM1/BRB-Cafe%26Bar?type=design&node-id=0%3A1&mode=design&t=o9M8PukGmKrZGZzb-1
 - Node.js and npm: for setting up the development environment;
