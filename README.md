@@ -1,6 +1,6 @@
 # BRB Cafe&Bar Website
 
-![BRB Cafe&Bar Website](https://github.com/andreeaispas/Project7_BRB-Cafe-Bar/blob/main/StartPage.jpg)
+![BRB Cafe&Bar Website](https://github.com/andreeaispas/Project7_BRB-Cafe-Bar/blob/main/Main.jpg)
 
 ### 🍹📝 I created this website for a recently opened business of some family friends, to help promote and make this Bar visible in our county. 
 
