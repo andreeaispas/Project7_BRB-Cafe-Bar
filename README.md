@@ -6,7 +6,7 @@
 
 ### 👍 In this way, we can offer customers a pleasant and informative online experience about the location. 
 
-## Introduction
+## Introduction:
 
 This is a code repository for the corresponding Modern UI/UX Website of BRB Cafe&Bar. Through rigorous work on this one I realized how good it is to fix the information you already know and how you can learn new commands in an enjoyable way by following my own design.
 
